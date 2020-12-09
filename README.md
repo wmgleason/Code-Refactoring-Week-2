@@ -10,3 +10,7 @@ assets - style.css
 The html and css files together should produce a website that looks like this:
 
 ![demo](https://user-images.githubusercontent.com/53956822/101561331-26de2300-3993-11eb-9363-884e66693143.png)
+
+In this project I aimed to consolidate CSS selectors and properties, add comments, etc.
+
+License: UNH Coding Boot Camp / Wanda Gleason Dec. 2020
